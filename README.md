@@ -14,7 +14,7 @@
 > Simple benchmarking utilities.
 
 ## Install
-From simplebenchmarking folder run:
+Will be added later. From simplebenchmarking folder you will run:
 
 ```sh
 pip3 install .
